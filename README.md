@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2233&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2233" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush2233" alt="ayush2233" /></a> </p>
 
 - 🔭I have worked on [Pick-A-Book (Book Recommendation App)](https://github.com/Ayush2233/Pick-A-Book)
 
-- 🔭I have worked on [Sneaker Store Website](https://github.com/Ayush2233/Upanah-Sneaker-Store)
+- 🔭I have worked on [Legalize - Document Generation Platform](https://github.com/Ayush2233/Legalize)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush2233](https://github.com/Ayush2233)
 
-- 📫 How to reach me **agarwalayush2233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
