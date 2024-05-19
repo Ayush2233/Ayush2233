@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">As a computer science student I am very passionate about technology have a passion for innovation, and I am always looking for new ways to leverage technology to solve realworld problems. I have strong analytical and problem-solving to identify and resolve complex technical issues efficiently</h3>
+<h3 align="center">As a computer science student I am very passionate about technology have a passion for innovation, and I am always looking for new ways to leverage technology to solve real-world problems. I have strong analytical and problem-solving to identify and resolve complex technical issues efficiently</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2233&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2233" /> </p>
 
