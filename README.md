@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush2233](https://github.com/Ayush2233)
 
-
+<br>
 
 <h2 align="left"> 🔭 Current Projects </h2>
 
@@ -42,6 +42,8 @@
   <img alt="Typescripts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23E5A00D.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="DART" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+
+  
 </p>
 
 ## 👨🏻‍💻 Database & SAAS
@@ -59,6 +61,7 @@
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 </p>
 
 ## 🌸 Tool 
