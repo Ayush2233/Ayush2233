@@ -11,6 +11,23 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush2233](https://github.com/Ayush2233)
 
 
+
+<h2 align="left"> 🔭 Current Projects </h2>
+
+- Pick-A-Book
+
+  <i>Description:</i> <p>A complete social APP for reader which allow them to share their views and also share hard-copies. Made using flutter, dart, MongoDB and Firebase.  It leverages Machine Learning (recommendersystem) Algorithms and Human Computer Interaction to deliver good user experience.</p>
+  
+   <i>Tech Stack:</i> Flutter, HTML, CSS, MongoDB, JavaScript, RestAPIs, Machine Learning
+
+- Legal Document Generation
+
+  <i>Description:</i> <p>User-friendly Website for generating legal papers in English and Hindi. The work on this project is done in two different reposiort to achieve Modular Architecture.
+  </p>
+  <i>Tech Stack: </i> Angular Js,PSPDFKIT, RestAPIs, NodeJS,  MongoDB, Firebase, Javascript
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
